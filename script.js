@@ -1,3 +1,3 @@
 function showContact() {
-    alert("You can contact me at: solomon solo");
+    alert("You can contact me at: alex dick sucker");
 }
